@@ -1,0 +1,17 @@
+D:\_Projects\_CSharp\WList\WList\bin\Debug\WList.exe
+D:\_Projects\_CSharp\WList\WList\bin\Debug\WList.pdb
+D:\_Projects\_CSharp\WList\WList\obj\Debug\ResolveAssemblyReference.cache
+D:\_Projects\_CSharp\WList\WList\obj\Debug\WList.Mainform.resources
+D:\_Projects\_CSharp\WList\WList\obj\Debug\WList.Properties.Resources.resources
+D:\_Projects\_CSharp\WList\WList\obj\Debug\WList.csproj.GenerateResource.Cache
+D:\_Projects\_CSharp\WList\WList\obj\Debug\WList.exe
+D:\_Projects\_CSharp\WList\WList\obj\Debug\WList.pdb
+D:\_Projects\_CSharp\WList\WList\bin\Debug\ObjectListView.dll
+D:\_Projects\_CSharp\WList\WList\bin\Debug\ObjectListView.pdb
+D:\_Projects\_CSharp\WList\WList\obj\Debug\WList.View.InputForm.resources
+D:\_Projects\_CSharp\WList\WList\bin\Debug\Config.xml
+D:\_Projects\_CSharp\WList\WList\bin\Debug\Gabriel.Base.dll
+D:\_Projects\_CSharp\WList\WList\bin\Debug\Gabriel.Base.pdb
+D:\_Projects\_CSharp\WList\WList\obj\Debug\WList.View.Display.resources
+D:\_Projects\_CSharp\WList\WList\obj\Debug\WList.View.StatsForm.resources
+D:\_Projects\_CSharp\WList\WList\bin\Debug\DevComponents.DotNetBar2.dll
